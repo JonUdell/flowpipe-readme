@@ -3,7 +3,7 @@
 [![mods](https://img.shields.io/badge/mods-43-blue)](https://hub.steampipe.io/mods?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) &nbsp;
 [![controls](https://img.shields.io/badge/controls-5872-blue)](https://hub.steampipe.io/mods?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) &nbsp;
 [![benchmarks](https://img.shields.io/badge/benchmarks-2330-blue)](https://hub.steampipe.io/mods?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme) &nbsp;
-[![dashboards](https://img.shields.io/badge/dashboards-710-blue)](https://hub.steampipe.io/mods?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
+[![dashboards](https://img.shields.io/badge/dashboards-736-blue)](https://hub.steampipe.io/mods?utm_id=gspreadme&utm_source=github&utm_medium=repo&utm_campaign=github&utm_content=readme)
 
 
 
